@@ -1,0 +1,5 @@
+Student: Basas
+Student ID: TUPM-26-3492
+Seed digit: 2
+ID sum: 26
+Verification value: 132
